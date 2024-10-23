@@ -1,0 +1,3093 @@
+fileFormatVersion: 2
+guid: e9bf476911a789d46b57a0d1811e16c1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DrawMedicineSprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5478
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8e7abcf3f518b43b74db4e4a030ef6
+      internalID: -1816277465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_1
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 5478
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961f4e5cba00a7140a917be2aa7f71ab
+      internalID: -1611103836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_2
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 5478
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e09a5cc161a994299b041909043dfb
+      internalID: -122820932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_3
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 5478
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b78d3705127da4cb383a96d9755080
+      internalID: -569021452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_4
+      rect:
+        serializedVersion: 2
+        x: 2992
+        y: 5478
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca7d8380a7647342b3260e0b9eb32f0
+      internalID: 1839645966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_5
+      rect:
+        serializedVersion: 2
+        x: 3740
+        y: 5478
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853c14de10a01c74fa37b4e81f8820dc
+      internalID: -661128589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_6
+      rect:
+        serializedVersion: 2
+        x: 4488
+        y: 5478
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ecf17e089df1842845119099207c11
+      internalID: -241365391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_7
+      rect:
+        serializedVersion: 2
+        x: 5236
+        y: 5478
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793e7e0add7363a49863f8a9900171a6
+      internalID: -1637382142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_8
+      rect:
+        serializedVersion: 2
+        x: 5984
+        y: 5478
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196ab70c893e7c74588af19bac9886ff
+      internalID: 1967501694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_9
+      rect:
+        serializedVersion: 2
+        x: 6732
+        y: 5478
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85619b97dfe8a5458fb55dfee6a7860
+      internalID: -605650249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_10
+      rect:
+        serializedVersion: 2
+        x: 7480
+        y: 5478
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53449690d1e90ad48899e1e6c97e5ba2
+      internalID: -851468360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_11
+      rect:
+        serializedVersion: 2
+        x: 8228
+        y: 5478
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe337dc296cb3342bd5644ac7114d75
+      internalID: -2005160593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4980
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f014ddf1b49804fab77323d7a1f105
+      internalID: -976743392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_13
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 4980
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442b8b47ab661b34b8e2e9a89555ec70
+      internalID: 2016492288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_14
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 4980
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4ad02d36b84b04fa6a26cb3622ac29
+      internalID: -1963485971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_15
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 4980
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4aef8ce03799c04ea6e573c999bb597
+      internalID: -1600384071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_16
+      rect:
+        serializedVersion: 2
+        x: 2992
+        y: 4980
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b071982c5255334eb5e9a037421bf32
+      internalID: -1538606324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_17
+      rect:
+        serializedVersion: 2
+        x: 3740
+        y: 4980
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3a05dc438c8dc4596de6a7dfde8542
+      internalID: 234839549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_18
+      rect:
+        serializedVersion: 2
+        x: 4488
+        y: 4980
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649e77188a710f2478e82095b979c0c2
+      internalID: 1754257230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_19
+      rect:
+        serializedVersion: 2
+        x: 5236
+        y: 4980
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75c3924ef1ed68409c31fcdea96e997
+      internalID: -10010756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_20
+      rect:
+        serializedVersion: 2
+        x: 5984
+        y: 4980
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b63e3e1d722c25409705991f95f6182
+      internalID: -1829322045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_21
+      rect:
+        serializedVersion: 2
+        x: 6732
+        y: 4980
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06cfec61470a14442a01e04a3c1122a0
+      internalID: -1034749395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_22
+      rect:
+        serializedVersion: 2
+        x: 7480
+        y: 4980
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9989481d0a1b5004a9a81db2a8da93ff
+      internalID: 1178142581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_23
+      rect:
+        serializedVersion: 2
+        x: 8228
+        y: 4980
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816a0a85e90125845b0ac3cef4a156df
+      internalID: 1770136016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4482
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512af95036502f8418b21e0ae2f77c9a
+      internalID: -1154721567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_25
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 4482
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cfc81aaa0f089543bdbc329f950419e
+      internalID: 85789474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_26
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 4482
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8ee2b5a278da44eb0a9c543d8178b6
+      internalID: -513691510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_27
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 4482
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ebec70383f3b4944887344808293456
+      internalID: 411718697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_28
+      rect:
+        serializedVersion: 2
+        x: 2992
+        y: 4482
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b427c5111eb956545bb992d162d82f77
+      internalID: -998144095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_29
+      rect:
+        serializedVersion: 2
+        x: 3740
+        y: 4482
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b7d5c841c811849a9b1f8389b72dba
+      internalID: -393570511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_30
+      rect:
+        serializedVersion: 2
+        x: 4488
+        y: 4482
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3899d4649835e04eb0811b7c5c56fa1
+      internalID: -158625673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_31
+      rect:
+        serializedVersion: 2
+        x: 5236
+        y: 4482
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d10e0a4d8e8134789dcc53ae6e7096
+      internalID: -1137895247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_32
+      rect:
+        serializedVersion: 2
+        x: 5984
+        y: 4482
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2c5c50b1771464aacf559d1f0351f9
+      internalID: -1764165399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_33
+      rect:
+        serializedVersion: 2
+        x: 6732
+        y: 4482
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782890c7cb8517e43ba9227740fdeb65
+      internalID: 1346753260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_34
+      rect:
+        serializedVersion: 2
+        x: 7480
+        y: 4482
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefacf3942595d549b21497f9672fed9
+      internalID: -328363906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_35
+      rect:
+        serializedVersion: 2
+        x: 8228
+        y: 4482
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3321b8c70a951f24aae9463d9a525707
+      internalID: -84864316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3984
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678331d079aaa2d44bb8fbb358c1639a
+      internalID: -1410731032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_37
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 3984
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df96a315550cb24a8378ade4157e6fc
+      internalID: -1611914497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_38
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 3984
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440d5af10103ec84fbd9c945eb7b1bc2
+      internalID: 365315473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_39
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 3984
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04af5a4c837918f438a31be453f772cb
+      internalID: -110495382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_40
+      rect:
+        serializedVersion: 2
+        x: 2992
+        y: 3984
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea41d38f8e7ef344a7570d2366b1d5d
+      internalID: -2108811342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_41
+      rect:
+        serializedVersion: 2
+        x: 3740
+        y: 3984
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e2a97e160969e48b648fed48d50edd
+      internalID: -1659279777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_42
+      rect:
+        serializedVersion: 2
+        x: 4488
+        y: 3984
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8123b81324c260742825c5a14f8b6522
+      internalID: -1568737788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_43
+      rect:
+        serializedVersion: 2
+        x: 5236
+        y: 3984
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fdf801850807cb4c9136261cf18ad38
+      internalID: 1275675870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_44
+      rect:
+        serializedVersion: 2
+        x: 5984
+        y: 3984
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6175d73b8d672264da9aa3c36eb440e7
+      internalID: -1160687583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_45
+      rect:
+        serializedVersion: 2
+        x: 6732
+        y: 3984
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67405e013e1a464b98a67b5307f0e70
+      internalID: 1778705338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_46
+      rect:
+        serializedVersion: 2
+        x: 7480
+        y: 3984
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c35b10a6359cb042882737f485cdf5a
+      internalID: 1406532709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_47
+      rect:
+        serializedVersion: 2
+        x: 8228
+        y: 3984
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fbd0ddbbcf00ca499861deacddc8a9a
+      internalID: -1693291047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3486
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91b396ad5d658940843970a060f980a
+      internalID: 1993392441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_49
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 3486
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4fe255e2d3326f429271249d4ac80ac
+      internalID: -397406706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_50
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 3486
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae76f06fc7b7624f83b0cfc3cdaf5f4
+      internalID: -832698203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_51
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 3486
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06e9e61ad548214b820531802be0fcb
+      internalID: 729997611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_52
+      rect:
+        serializedVersion: 2
+        x: 2992
+        y: 3486
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae4a3e4558c67545886c7c583d27422
+      internalID: -1711701936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_53
+      rect:
+        serializedVersion: 2
+        x: 3740
+        y: 3486
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f34187e4d340e4cbc1602838358664
+      internalID: -1973235775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_54
+      rect:
+        serializedVersion: 2
+        x: 4488
+        y: 3486
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f709f9aa0d40d84aa5040663cf8a870
+      internalID: -2098049503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_55
+      rect:
+        serializedVersion: 2
+        x: 5236
+        y: 3486
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d66b499c3a3724d957e4a900cb6ac9
+      internalID: -1597660533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_56
+      rect:
+        serializedVersion: 2
+        x: 5984
+        y: 3486
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06151f565c0f25c4ea142ede6c264232
+      internalID: -1769226555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_57
+      rect:
+        serializedVersion: 2
+        x: 6732
+        y: 3486
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67602be1f2b48e049a6a30a93d8f7513
+      internalID: 542932215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_58
+      rect:
+        serializedVersion: 2
+        x: 7480
+        y: 3486
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8ef399ef4b59a46bea19cd84a06cc7
+      internalID: 253479906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_59
+      rect:
+        serializedVersion: 2
+        x: 8228
+        y: 3486
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1fd7b2a535db84ab1076dbd7924ec4
+      internalID: -316072555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2988
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e9d23c42bcd0341af2669c0efd48e4
+      internalID: 391498602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_61
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 2988
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd4d6584274dcf4996cc296505b7534
+      internalID: 1195335055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_62
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 2988
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4b2e52ebca1d54ebd87b9f6f38e462
+      internalID: -578135756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_63
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 2988
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90914b6cbf4cda40b599c63d3aecf41
+      internalID: 1626775015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_64
+      rect:
+        serializedVersion: 2
+        x: 2992
+        y: 2988
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6dcdd6850c1bdc468f0e490d345631e
+      internalID: 348614185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_65
+      rect:
+        serializedVersion: 2
+        x: 3740
+        y: 2988
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd3c4ce052063b45bd17d27861443a4
+      internalID: -1283079638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_66
+      rect:
+        serializedVersion: 2
+        x: 4488
+        y: 2988
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00da122d891ad5746b6480fc8f609444
+      internalID: 1328087118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_67
+      rect:
+        serializedVersion: 2
+        x: 5236
+        y: 2988
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37cbf8688de59f946b106247e50e27bd
+      internalID: -389045969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_68
+      rect:
+        serializedVersion: 2
+        x: 5984
+        y: 2988
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd6de3ffd7b14944840e954a6b6a5d5
+      internalID: 1566874752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_69
+      rect:
+        serializedVersion: 2
+        x: 6732
+        y: 2988
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7550081123cad574f987fa20efd3dead
+      internalID: -1904410964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_70
+      rect:
+        serializedVersion: 2
+        x: 7480
+        y: 2988
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355d8bd7da0b4ed499a422357b04deed
+      internalID: -129741448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_71
+      rect:
+        serializedVersion: 2
+        x: 8228
+        y: 2988
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970fad7eab2665c4892f69daf48362cb
+      internalID: -604505408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2490
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed98c3bbd52c1eb4ca615c26cb73cf04
+      internalID: -1147415573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_73
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 2490
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b998fae1a0648b24ca8364e54446ea69
+      internalID: -1358532707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_74
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 2490
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90cae783752cda44d84f8ad12714f3e3
+      internalID: 1814905017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_75
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 2490
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48c5dbdf52cffe4daaf9e8e61a2995a
+      internalID: -1074118636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_76
+      rect:
+        serializedVersion: 2
+        x: 2992
+        y: 2490
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69f2db7a8654704b845028aed67a1c0
+      internalID: -1425204228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_77
+      rect:
+        serializedVersion: 2
+        x: 3740
+        y: 2490
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497cd336f6cb4ec438c25fae3ae76e83
+      internalID: -1844261025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_78
+      rect:
+        serializedVersion: 2
+        x: 4488
+        y: 2490
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32288e817508aae4985ba9bbf2c9e416
+      internalID: -1204838614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_79
+      rect:
+        serializedVersion: 2
+        x: 5236
+        y: 2490
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c71c746ba51454d8946dc0a85266b7
+      internalID: 913043654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_80
+      rect:
+        serializedVersion: 2
+        x: 5984
+        y: 2490
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b7087df35359c49916112544f88b21
+      internalID: -974987593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_81
+      rect:
+        serializedVersion: 2
+        x: 6732
+        y: 2490
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d920b96e25541924fb94ee46c7b45957
+      internalID: 1467126956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_82
+      rect:
+        serializedVersion: 2
+        x: 7480
+        y: 2490
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048e616df01186e4fa1fe71fb4219368
+      internalID: 1368436599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_83
+      rect:
+        serializedVersion: 2
+        x: 8228
+        y: 2490
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6ff7cf2fa3fd146a1510b44a26b504
+      internalID: -812177721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1992
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b8938a847340649bbaa5c3cdc2be18
+      internalID: -1166785452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_85
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 1992
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba17bb225f12f74eb6d1b85936339a0
+      internalID: 1555647304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_86
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 1992
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458ef0d4799f4ee4ea0258c938bbb97b
+      internalID: 292382918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_87
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 1992
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24698a5bf121f740bb7d437a8b2541c
+      internalID: 1616245880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_88
+      rect:
+        serializedVersion: 2
+        x: 2992
+        y: 1992
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea17555fa02369f4296ed45434935d01
+      internalID: -363688731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_89
+      rect:
+        serializedVersion: 2
+        x: 3740
+        y: 1992
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c68271b38601240a97a44483bc345a
+      internalID: 1083887974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_90
+      rect:
+        serializedVersion: 2
+        x: 4488
+        y: 1992
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ae286b59ba21c4f8c7b6f2cc31879a
+      internalID: 223654832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_91
+      rect:
+        serializedVersion: 2
+        x: 5236
+        y: 1992
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad06dce5303a90488479f6d7bc5d139
+      internalID: -163407890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_92
+      rect:
+        serializedVersion: 2
+        x: 5984
+        y: 1992
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614b2a8070b930a4780fd7c009455aa1
+      internalID: -2147017270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_93
+      rect:
+        serializedVersion: 2
+        x: 6732
+        y: 1992
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949b226bc9d1c904986d8517d8935f51
+      internalID: 181870945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_94
+      rect:
+        serializedVersion: 2
+        x: 7480
+        y: 1992
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147c573ac69a3c242a0425a4f5e1eb19
+      internalID: -764421092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_95
+      rect:
+        serializedVersion: 2
+        x: 8228
+        y: 1992
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a523d1922c495b4ea72ccb78b4e7083
+      internalID: 647121010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1494
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797c894916ed26d4695953a50d010b0a
+      internalID: -988305772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_97
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 1494
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a03b7a0dddb24348a62571571e625c8
+      internalID: -505777746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_98
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 1494
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633e33db5b6b0be49af040416ebea86e
+      internalID: 329773192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_99
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 1494
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e363ca6ec3b78479ec40c520c2dd88
+      internalID: -2124877637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_100
+      rect:
+        serializedVersion: 2
+        x: 2992
+        y: 1494
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854be9d4b8e0c784b96ef59003f41fd3
+      internalID: -1632504084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_101
+      rect:
+        serializedVersion: 2
+        x: 3740
+        y: 1494
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dab349a48257224091ca45efb0d1d80
+      internalID: -1859587025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_102
+      rect:
+        serializedVersion: 2
+        x: 4488
+        y: 1494
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ed59b487106c640b4cdeac29fab19d
+      internalID: 1163340016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_103
+      rect:
+        serializedVersion: 2
+        x: 5236
+        y: 1494
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1bde568bc6cd8e44b35eb57fa907539
+      internalID: -481426670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_104
+      rect:
+        serializedVersion: 2
+        x: 5984
+        y: 1494
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79df48b2b73fdd64db40c5d1806ed86f
+      internalID: -1561939391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_105
+      rect:
+        serializedVersion: 2
+        x: 6732
+        y: 1494
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74223e880c2a1e469d1748b2ed4dbd7
+      internalID: -585550227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_106
+      rect:
+        serializedVersion: 2
+        x: 7480
+        y: 1494
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f71a36b87d88c4e8004865d197d9ea
+      internalID: -856944254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_107
+      rect:
+        serializedVersion: 2
+        x: 8228
+        y: 1494
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6cfe1018bc15b040b91326d6973f4b4
+      internalID: -1747559371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 996
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1facd7cae084ff43b5382eecb3a6215
+      internalID: 1427433250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_109
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 996
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a4282d92aff5245ace80f51708ec60
+      internalID: -1180069394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_110
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 996
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b3c6c27f660d14eb91e9ac5e67e946
+      internalID: -1010612430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_111
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 996
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f02ff585b96b540a134a42d1194ce7
+      internalID: 1415302188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_112
+      rect:
+        serializedVersion: 2
+        x: 2992
+        y: 996
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6541fec5036d1f4181ce2d78ff2a7d2
+      internalID: 183325953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_113
+      rect:
+        serializedVersion: 2
+        x: 3740
+        y: 996
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419e8d0f354b15b4da09f6d7866c8b78
+      internalID: -1081766682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_114
+      rect:
+        serializedVersion: 2
+        x: 4488
+        y: 996
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770ed4a5051eb80468edb9cebdddcf1b
+      internalID: 1585924382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_115
+      rect:
+        serializedVersion: 2
+        x: 5236
+        y: 996
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12430bc183825e1469bd1229256a423e
+      internalID: -369355639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_116
+      rect:
+        serializedVersion: 2
+        x: 5984
+        y: 996
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90cb64ee9ecfe0943844f24ecf9dd328
+      internalID: 269058911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_117
+      rect:
+        serializedVersion: 2
+        x: 6732
+        y: 996
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a57a71e0b727142885e8cd9eb689a7
+      internalID: 1737428419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_118
+      rect:
+        serializedVersion: 2
+        x: 7480
+        y: 996
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f15ed69d5f49834785d9db6c391babf
+      internalID: 1603604655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_119
+      rect:
+        serializedVersion: 2
+        x: 8228
+        y: 996
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c492612c0616bc49a622e1aa4a75ae0
+      internalID: 1631456720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 498
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6ddfb74c86f9247a37b9c4b67efbd4
+      internalID: -1468049094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_121
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 498
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615ad5eb0f059334eaa84ef9c21e6904
+      internalID: 515683956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_122
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 498
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770d5c4f59be2974c995c5e3a7780813
+      internalID: -1294441688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_123
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 498
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f881bc850d0f104eab4e19eff8fb759
+      internalID: -662710124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_124
+      rect:
+        serializedVersion: 2
+        x: 2992
+        y: 498
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e054636f71f69f46afdb881a40ce693
+      internalID: -273577218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_125
+      rect:
+        serializedVersion: 2
+        x: 3740
+        y: 498
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26150e9904978ae4aa81ec76cc48ac53
+      internalID: -168775884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_126
+      rect:
+        serializedVersion: 2
+        x: 4488
+        y: 498
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5427e710bb524242927ae3b1ec2b50e
+      internalID: -104321273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_127
+      rect:
+        serializedVersion: 2
+        x: 5236
+        y: 498
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0066048073bd8fb4c94e567bddee3cf7
+      internalID: 1492937142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_128
+      rect:
+        serializedVersion: 2
+        x: 5984
+        y: 498
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ed45e236c215241911b962831cd1e0
+      internalID: 1452006648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_129
+      rect:
+        serializedVersion: 2
+        x: 6732
+        y: 498
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba2e8b33c2bf2c4fb4391d2bf00cbba
+      internalID: -967007077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_130
+      rect:
+        serializedVersion: 2
+        x: 7480
+        y: 498
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a5f261ad4a5224ca1fbb12c9bc0b31
+      internalID: 600971187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_131
+      rect:
+        serializedVersion: 2
+        x: 8228
+        y: 498
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e83329c39a05c040acee56e269b181e
+      internalID: 854648758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7db6775bb1a4364e9bfd0aa4bd82334
+      internalID: 329119510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_133
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 0
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa41b5418cabf14181a860ecbcd5c73
+      internalID: -773888141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrawMedicineSprite_134
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 0
+        width: 748
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f54eb48224c477448fddb1502e0df9b
+      internalID: 591055798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 131c3aa72fcd5fc48b86ee6c0dea3df7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DrawMedicineSprite_0: -1816277465
+      DrawMedicineSprite_1: -1611103836
+      DrawMedicineSprite_10: -851468360
+      DrawMedicineSprite_100: -1632504084
+      DrawMedicineSprite_101: -1859587025
+      DrawMedicineSprite_102: 1163340016
+      DrawMedicineSprite_103: -481426670
+      DrawMedicineSprite_104: -1561939391
+      DrawMedicineSprite_105: -585550227
+      DrawMedicineSprite_106: -856944254
+      DrawMedicineSprite_107: -1747559371
+      DrawMedicineSprite_108: 1427433250
+      DrawMedicineSprite_109: -1180069394
+      DrawMedicineSprite_11: -2005160593
+      DrawMedicineSprite_110: -1010612430
+      DrawMedicineSprite_111: 1415302188
+      DrawMedicineSprite_112: 183325953
+      DrawMedicineSprite_113: -1081766682
+      DrawMedicineSprite_114: 1585924382
+      DrawMedicineSprite_115: -369355639
+      DrawMedicineSprite_116: 269058911
+      DrawMedicineSprite_117: 1737428419
+      DrawMedicineSprite_118: 1603604655
+      DrawMedicineSprite_119: 1631456720
+      DrawMedicineSprite_12: -976743392
+      DrawMedicineSprite_120: -1468049094
+      DrawMedicineSprite_121: 515683956
+      DrawMedicineSprite_122: -1294441688
+      DrawMedicineSprite_123: -662710124
+      DrawMedicineSprite_124: -273577218
+      DrawMedicineSprite_125: -168775884
+      DrawMedicineSprite_126: -104321273
+      DrawMedicineSprite_127: 1492937142
+      DrawMedicineSprite_128: 1452006648
+      DrawMedicineSprite_129: -967007077
+      DrawMedicineSprite_13: 2016492288
+      DrawMedicineSprite_130: 600971187
+      DrawMedicineSprite_131: 854648758
+      DrawMedicineSprite_132: 329119510
+      DrawMedicineSprite_133: -773888141
+      DrawMedicineSprite_134: 591055798
+      DrawMedicineSprite_135: -768453833
+      DrawMedicineSprite_136: 354064707
+      DrawMedicineSprite_137: 1642173576
+      DrawMedicineSprite_138: -1111962027
+      DrawMedicineSprite_139: -1294660306
+      DrawMedicineSprite_14: -1963485971
+      DrawMedicineSprite_140: 248341119
+      DrawMedicineSprite_141: -1488989241
+      DrawMedicineSprite_142: 1911878977
+      DrawMedicineSprite_143: 760372559
+      DrawMedicineSprite_15: -1600384071
+      DrawMedicineSprite_16: -1538606324
+      DrawMedicineSprite_17: 234839549
+      DrawMedicineSprite_18: 1754257230
+      DrawMedicineSprite_19: -10010756
+      DrawMedicineSprite_2: -122820932
+      DrawMedicineSprite_20: -1829322045
+      DrawMedicineSprite_21: -1034749395
+      DrawMedicineSprite_22: 1178142581
+      DrawMedicineSprite_23: 1770136016
+      DrawMedicineSprite_24: -1154721567
+      DrawMedicineSprite_25: 85789474
+      DrawMedicineSprite_26: -513691510
+      DrawMedicineSprite_27: 411718697
+      DrawMedicineSprite_28: -998144095
+      DrawMedicineSprite_29: -393570511
+      DrawMedicineSprite_3: -569021452
+      DrawMedicineSprite_30: -158625673
+      DrawMedicineSprite_31: -1137895247
+      DrawMedicineSprite_32: -1764165399
+      DrawMedicineSprite_33: 1346753260
+      DrawMedicineSprite_34: -328363906
+      DrawMedicineSprite_35: -84864316
+      DrawMedicineSprite_36: -1410731032
+      DrawMedicineSprite_37: -1611914497
+      DrawMedicineSprite_38: 365315473
+      DrawMedicineSprite_39: -110495382
+      DrawMedicineSprite_4: 1839645966
+      DrawMedicineSprite_40: -2108811342
+      DrawMedicineSprite_41: -1659279777
+      DrawMedicineSprite_42: -1568737788
+      DrawMedicineSprite_43: 1275675870
+      DrawMedicineSprite_44: -1160687583
+      DrawMedicineSprite_45: 1778705338
+      DrawMedicineSprite_46: 1406532709
+      DrawMedicineSprite_47: -1693291047
+      DrawMedicineSprite_48: 1993392441
+      DrawMedicineSprite_49: -397406706
+      DrawMedicineSprite_5: -661128589
+      DrawMedicineSprite_50: -832698203
+      DrawMedicineSprite_51: 729997611
+      DrawMedicineSprite_52: -1711701936
+      DrawMedicineSprite_53: -1973235775
+      DrawMedicineSprite_54: -2098049503
+      DrawMedicineSprite_55: -1597660533
+      DrawMedicineSprite_56: -1769226555
+      DrawMedicineSprite_57: 542932215
+      DrawMedicineSprite_58: 253479906
+      DrawMedicineSprite_59: -316072555
+      DrawMedicineSprite_6: -241365391
+      DrawMedicineSprite_60: 391498602
+      DrawMedicineSprite_61: 1195335055
+      DrawMedicineSprite_62: -578135756
+      DrawMedicineSprite_63: 1626775015
+      DrawMedicineSprite_64: 348614185
+      DrawMedicineSprite_65: -1283079638
+      DrawMedicineSprite_66: 1328087118
+      DrawMedicineSprite_67: -389045969
+      DrawMedicineSprite_68: 1566874752
+      DrawMedicineSprite_69: -1904410964
+      DrawMedicineSprite_7: -1637382142
+      DrawMedicineSprite_70: -129741448
+      DrawMedicineSprite_71: -604505408
+      DrawMedicineSprite_72: -1147415573
+      DrawMedicineSprite_73: -1358532707
+      DrawMedicineSprite_74: 1814905017
+      DrawMedicineSprite_75: -1074118636
+      DrawMedicineSprite_76: -1425204228
+      DrawMedicineSprite_77: -1844261025
+      DrawMedicineSprite_78: -1204838614
+      DrawMedicineSprite_79: 913043654
+      DrawMedicineSprite_8: 1967501694
+      DrawMedicineSprite_80: -974987593
+      DrawMedicineSprite_81: 1467126956
+      DrawMedicineSprite_82: 1368436599
+      DrawMedicineSprite_83: -812177721
+      DrawMedicineSprite_84: -1166785452
+      DrawMedicineSprite_85: 1555647304
+      DrawMedicineSprite_86: 292382918
+      DrawMedicineSprite_87: 1616245880
+      DrawMedicineSprite_88: -363688731
+      DrawMedicineSprite_89: 1083887974
+      DrawMedicineSprite_9: -605650249
+      DrawMedicineSprite_90: 223654832
+      DrawMedicineSprite_91: -163407890
+      DrawMedicineSprite_92: -2147017270
+      DrawMedicineSprite_93: 181870945
+      DrawMedicineSprite_94: -764421092
+      DrawMedicineSprite_95: 647121010
+      DrawMedicineSprite_96: -988305772
+      DrawMedicineSprite_97: -505777746
+      DrawMedicineSprite_98: 329773192
+      DrawMedicineSprite_99: -2124877637
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

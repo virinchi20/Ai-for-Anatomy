@@ -1,0 +1,4118 @@
+fileFormatVersion: 2
+guid: 5edcae2c8c1e2714cbc7eb8c0d2e39ea
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MeasurePatientSprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8151
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13a07f415e0f7a40958c19e3c9f8ce0
+      internalID: 478251318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_1
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 8151
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0a99add96dcdf4eaaf834de4df2ef3
+      internalID: -435389329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_2
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 8151
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2a41dad03205b499c25fb17d84ae3f
+      internalID: 1553541023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_3
+      rect:
+        serializedVersion: 2
+        x: 3645
+        y: 8151
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad582599a6ce83941b35e4101f68cf08
+      internalID: -724931868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_4
+      rect:
+        serializedVersion: 2
+        x: 4860
+        y: 8151
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7123d5402b4361e47a2cf103ec73077a
+      internalID: 2024839988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_5
+      rect:
+        serializedVersion: 2
+        x: 6075
+        y: 8151
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c06158e4940a224b87ba2e6c2c6aeb3
+      internalID: 413697434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_6
+      rect:
+        serializedVersion: 2
+        x: 7290
+        y: 8151
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8cd885272cc0049afd06e0d8e04ec5
+      internalID: 2127148970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_7
+      rect:
+        serializedVersion: 2
+        x: 8505
+        y: 8151
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f26c13a7c14d834f8a818a5aa2c5420
+      internalID: 1484142660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_8
+      rect:
+        serializedVersion: 2
+        x: 9720
+        y: 8151
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b92607a4916a545aaf0f4b1e25c0f9
+      internalID: 839712731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_9
+      rect:
+        serializedVersion: 2
+        x: 10935
+        y: 8151
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c0cef92889ead4190090f4accfff3a
+      internalID: -1488282650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_10
+      rect:
+        serializedVersion: 2
+        x: 12150
+        y: 8151
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a206067198b9442a6e0d87fee5aacf
+      internalID: 1242857354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_11
+      rect:
+        serializedVersion: 2
+        x: 13365
+        y: 8151
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2503a119ca85d374981d512d681c2fa7
+      internalID: 1498578077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_12
+      rect:
+        serializedVersion: 2
+        x: 14580
+        y: 8151
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ceb3deb1c9a2a45bbc2e04f633247b
+      internalID: 1675111550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7524
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a7cdeb957e840478e641419e413291
+      internalID: -1960303093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_14
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 7524
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e330b6121b25c040ab956dbf0b6d56b
+      internalID: 1553962040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_15
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 7524
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5589e4925b4627642a1ecd6aaa13866a
+      internalID: 681798804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_16
+      rect:
+        serializedVersion: 2
+        x: 3645
+        y: 7524
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948bf67fb8ca80e4a93815841f7da598
+      internalID: 70715133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_17
+      rect:
+        serializedVersion: 2
+        x: 4860
+        y: 7524
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4476d1d0577a2174f9e7565f1d8fca4a
+      internalID: -2037087941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_18
+      rect:
+        serializedVersion: 2
+        x: 6075
+        y: 7524
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71326cb19f92b784aace0e771986804c
+      internalID: 1763549201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_19
+      rect:
+        serializedVersion: 2
+        x: 7290
+        y: 7524
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f1a812cddf95f459eaf37f08d63c0d
+      internalID: 1608060089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_20
+      rect:
+        serializedVersion: 2
+        x: 8505
+        y: 7524
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd6b16a6d6905a4ea018155e8391bf7
+      internalID: 178409929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_21
+      rect:
+        serializedVersion: 2
+        x: 9720
+        y: 7524
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81b98ab576c11748870a551cd41354a
+      internalID: 1924117474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_22
+      rect:
+        serializedVersion: 2
+        x: 10935
+        y: 7524
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c795ff88065d9ac48a2b35bc37722ef4
+      internalID: -1285917449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_23
+      rect:
+        serializedVersion: 2
+        x: 12150
+        y: 7524
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd510f1908b0aa40b4bc658307b3ed8
+      internalID: 419212327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_24
+      rect:
+        serializedVersion: 2
+        x: 13365
+        y: 7524
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53e38c661208674cae8a4aa0eb005f4
+      internalID: -339245864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_25
+      rect:
+        serializedVersion: 2
+        x: 14580
+        y: 7524
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4cd8f59d1bf2e4b91398a8083fa150
+      internalID: 2097790564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6897
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44291dd62ea1ed4e954be45c68b7d0a
+      internalID: -1836434608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_27
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 6897
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf4325a18b9dfe479511250101244af
+      internalID: -1273995619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_28
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 6897
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea3377747631374096e679ce875da2b
+      internalID: 1515337137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_29
+      rect:
+        serializedVersion: 2
+        x: 3645
+        y: 6897
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbfd687885c7864d85de0fb0419755d
+      internalID: 670982644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_30
+      rect:
+        serializedVersion: 2
+        x: 4860
+        y: 6897
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5fdb76ef388564cabd397293586b98
+      internalID: 678292544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_31
+      rect:
+        serializedVersion: 2
+        x: 6075
+        y: 6897
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd45bc8a68a6574da1f9ca625572cd9
+      internalID: 219979034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_32
+      rect:
+        serializedVersion: 2
+        x: 7290
+        y: 6897
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250ebc6d80f253146ba065d9e7594b8f
+      internalID: -713867806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_33
+      rect:
+        serializedVersion: 2
+        x: 8505
+        y: 6897
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970587452e159a04591e45ee19dc95a0
+      internalID: -813742937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_34
+      rect:
+        serializedVersion: 2
+        x: 9720
+        y: 6897
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102eb924fdaa85146a30fda1275923cd
+      internalID: 828111214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_35
+      rect:
+        serializedVersion: 2
+        x: 10935
+        y: 6897
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c054e7ec4eb3f44a312f954eb8d3ee
+      internalID: 1377401293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_36
+      rect:
+        serializedVersion: 2
+        x: 12150
+        y: 6897
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e436b4bd765b84d9f796aaeb47cbfd
+      internalID: 2098897930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_37
+      rect:
+        serializedVersion: 2
+        x: 13365
+        y: 6897
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb5ed556c885394c9b01cc50f5f35ae
+      internalID: 779091824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_38
+      rect:
+        serializedVersion: 2
+        x: 14580
+        y: 6897
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74cf68f924a0e7b42af0431bf227cfc2
+      internalID: -275152428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6270
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b6f6a37eaf0f043b32a2a30e6923d3
+      internalID: -1828114363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_40
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 6270
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b45014108e01f14c88d26b5aa116af3
+      internalID: -150025828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_41
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 6270
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069b099b83c9026439314b8317c50855
+      internalID: 116895134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_42
+      rect:
+        serializedVersion: 2
+        x: 3645
+        y: 6270
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec22be1064ad704391cfa0a27395624
+      internalID: -1419143559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_43
+      rect:
+        serializedVersion: 2
+        x: 4860
+        y: 6270
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfc5ed99b2301d4c839b4e0a6c1a27c
+      internalID: 287244025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_44
+      rect:
+        serializedVersion: 2
+        x: 6075
+        y: 6270
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e353e64e812f1714cafd851b8d19e80d
+      internalID: -1112850470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_45
+      rect:
+        serializedVersion: 2
+        x: 7290
+        y: 6270
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7fd868b78fab4b4bba0d6c20b6bcdb9
+      internalID: 23083348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_46
+      rect:
+        serializedVersion: 2
+        x: 8505
+        y: 6270
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8538a1d1275564b4d827b00fed59b424
+      internalID: -1134478435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_47
+      rect:
+        serializedVersion: 2
+        x: 9720
+        y: 6270
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615e75cb90165a44eabaf1929a7a87c4
+      internalID: -1187274136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_48
+      rect:
+        serializedVersion: 2
+        x: 10935
+        y: 6270
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811d44091bc9baa4cb6956b67fed917d
+      internalID: -1382904510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_49
+      rect:
+        serializedVersion: 2
+        x: 12150
+        y: 6270
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a799a38ef4e62d14e83f456e6ef7d799
+      internalID: 789611277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_50
+      rect:
+        serializedVersion: 2
+        x: 13365
+        y: 6270
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c3c01e790fdef4fa5679016e568dde
+      internalID: -96358742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_51
+      rect:
+        serializedVersion: 2
+        x: 14580
+        y: 6270
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8897f5882d273429831f418a4911fb
+      internalID: 2092788206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5643
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c67773d8a76deb438295f05e68d4a62
+      internalID: 2065562253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_53
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 5643
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e15b48ba7c0ad4baaa852c2f9418c0
+      internalID: -494240616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_54
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 5643
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444308d4ff03877469256596346535e0
+      internalID: -1581402490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_55
+      rect:
+        serializedVersion: 2
+        x: 3645
+        y: 5643
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a2b432f7b1a0945bf6ed44f22433a5
+      internalID: 1187068311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_56
+      rect:
+        serializedVersion: 2
+        x: 4860
+        y: 5643
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4efcdaf5c42ed84197bec9f887da35b
+      internalID: -1504606134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_57
+      rect:
+        serializedVersion: 2
+        x: 6075
+        y: 5643
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28748d8db1788e3468e40fa649e4372b
+      internalID: -774821349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_58
+      rect:
+        serializedVersion: 2
+        x: 7290
+        y: 5643
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869f45e0cadc34b4691576c6c73b7c2f
+      internalID: 1175487334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_59
+      rect:
+        serializedVersion: 2
+        x: 8505
+        y: 5643
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901dce90a57b7bd439539b1229a084bd
+      internalID: 1174177698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_60
+      rect:
+        serializedVersion: 2
+        x: 9720
+        y: 5643
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c679e94bf29fe31479e94dd99f61e5b8
+      internalID: 1195751513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_61
+      rect:
+        serializedVersion: 2
+        x: 10935
+        y: 5643
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7186f32ebe9a16a44bbdd40f4f00284d
+      internalID: 2136942736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_62
+      rect:
+        serializedVersion: 2
+        x: 12150
+        y: 5643
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483afd5b0c752c442b7704a69e31e7d1
+      internalID: -743766345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_63
+      rect:
+        serializedVersion: 2
+        x: 13365
+        y: 5643
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32609f13b46c04b46a8b5e053b9c0804
+      internalID: -292629439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_64
+      rect:
+        serializedVersion: 2
+        x: 14580
+        y: 5643
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ecd30acf8a493409a6e9c46efa81eb
+      internalID: 758379498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5016
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3362a7a107ef94785c2448be106310
+      internalID: -1066703855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_66
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 5016
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c6bec3816151047bf23d3418964bb7
+      internalID: -1273652893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_67
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 5016
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097a4586b3bf2aa44bd97f8e4aac6801
+      internalID: -1513825605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_68
+      rect:
+        serializedVersion: 2
+        x: 3645
+        y: 5016
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b032d46fe1088c40bdfcd1b3ca81c0f
+      internalID: -594641091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_69
+      rect:
+        serializedVersion: 2
+        x: 4860
+        y: 5016
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b24faf375ef5640b4824fe34d115fc
+      internalID: -1561219842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_70
+      rect:
+        serializedVersion: 2
+        x: 6075
+        y: 5016
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be8718ad41124340aa094da0a8fa2c9
+      internalID: -1460656420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_71
+      rect:
+        serializedVersion: 2
+        x: 7290
+        y: 5016
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831fe897410a06a4587ca1be0d028617
+      internalID: -1509919659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_72
+      rect:
+        serializedVersion: 2
+        x: 8505
+        y: 5016
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1efb76e2386db04fb312d712756fe97
+      internalID: 675009825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_73
+      rect:
+        serializedVersion: 2
+        x: 9720
+        y: 5016
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4efa2098df380294fa0ed5208e11f0b0
+      internalID: -287905830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_74
+      rect:
+        serializedVersion: 2
+        x: 10935
+        y: 5016
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6564231066347104f883e362057e3da8
+      internalID: -455103557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_75
+      rect:
+        serializedVersion: 2
+        x: 12150
+        y: 5016
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa0556eb13b02e4b982c94dcb498068
+      internalID: 580398979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_76
+      rect:
+        serializedVersion: 2
+        x: 13365
+        y: 5016
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f692f35adf5c074ca88eafb24699a18
+      internalID: -1909938982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_77
+      rect:
+        serializedVersion: 2
+        x: 14580
+        y: 5016
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ff18d551f33924f8b63960482bfdc6
+      internalID: -257542008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4389
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f8d476fa68a7f4b80ab165b2d73b4c
+      internalID: -1872479913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_79
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 4389
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a40c6ff3e9500245ab823d7e5f53573
+      internalID: 928704668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_80
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 4389
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8bbbe0ba4ee80045ad18295626ac991
+      internalID: 519851279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_81
+      rect:
+        serializedVersion: 2
+        x: 3645
+        y: 4389
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e5fccb40bc58a49854fba0cd7f8505
+      internalID: 1030368898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_82
+      rect:
+        serializedVersion: 2
+        x: 4860
+        y: 4389
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ba7cd866efe7844adba854e20ad98a
+      internalID: -1688896435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_83
+      rect:
+        serializedVersion: 2
+        x: 6075
+        y: 4389
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf22be2389602bd42b5d3fb79ff7847e
+      internalID: 48857479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_84
+      rect:
+        serializedVersion: 2
+        x: 7290
+        y: 4389
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb9229782bf00641b24553758304164
+      internalID: -2017815673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_85
+      rect:
+        serializedVersion: 2
+        x: 8505
+        y: 4389
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5fbc6e89e2dd6449071e4b05cad9d5
+      internalID: 1153621051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_86
+      rect:
+        serializedVersion: 2
+        x: 9720
+        y: 4389
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ea25b0e647e4f45a62a7892b27a10d
+      internalID: -887122034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_87
+      rect:
+        serializedVersion: 2
+        x: 10935
+        y: 4389
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f00d87872fc029419ceb04e73168234
+      internalID: -2103417474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_88
+      rect:
+        serializedVersion: 2
+        x: 12150
+        y: 4389
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4523b0f8b755347bdff7ed4e394b51
+      internalID: 158439407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_89
+      rect:
+        serializedVersion: 2
+        x: 13365
+        y: 4389
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbd8c9496522fe46b66f1fe735a76b7
+      internalID: 1484475473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_90
+      rect:
+        serializedVersion: 2
+        x: 14580
+        y: 4389
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644cbe45c8e2f8c42827fb8a8b49a778
+      internalID: 379186688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3762
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f887e7fc63aa014fba12d4a217c8665
+      internalID: 342107408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_92
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 3762
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f0d84a431a6a94280e5362181a15a7
+      internalID: -1045959644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_93
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 3762
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5dc0a7573fa0a540aa730908a3bd222
+      internalID: 1769999185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_94
+      rect:
+        serializedVersion: 2
+        x: 3645
+        y: 3762
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2469d47525bf2094fac73740cb0b5913
+      internalID: -145200345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_95
+      rect:
+        serializedVersion: 2
+        x: 4860
+        y: 3762
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fdbe74f9bceab84084b731742d611d1
+      internalID: 2006757741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_96
+      rect:
+        serializedVersion: 2
+        x: 6075
+        y: 3762
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2f24bd9a9668247a9e81f2c15b1704
+      internalID: -286532985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_97
+      rect:
+        serializedVersion: 2
+        x: 7290
+        y: 3762
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129edd4dcc3854a46b43d66e3b573544
+      internalID: -1813998164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_98
+      rect:
+        serializedVersion: 2
+        x: 8505
+        y: 3762
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd0a51b87502d04bbc6329c21efcd57
+      internalID: 284988721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_99
+      rect:
+        serializedVersion: 2
+        x: 9720
+        y: 3762
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57767d18d826e5b4ba00b67295b44cf2
+      internalID: -1658125086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_100
+      rect:
+        serializedVersion: 2
+        x: 10935
+        y: 3762
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abfb911e4de6f5b42962ef067d4a8bbc
+      internalID: 1030207003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_101
+      rect:
+        serializedVersion: 2
+        x: 12150
+        y: 3762
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c78d86a6c6848c4c901562e93a20550
+      internalID: 1107996100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_102
+      rect:
+        serializedVersion: 2
+        x: 13365
+        y: 3762
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df424dafee590449a842f9f848a363b
+      internalID: -617814059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_103
+      rect:
+        serializedVersion: 2
+        x: 14580
+        y: 3762
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676875a2ef7a67f42826508a2c501a8c
+      internalID: 1412247384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3135
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4587525692c0274abf8fbf5b653bb6b
+      internalID: -1074491176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_105
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 3135
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c899439d67a954d9e6878c0761f058
+      internalID: 904199964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_106
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 3135
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ec395d175a5cd43986b5afcca5938d
+      internalID: -1795485391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_107
+      rect:
+        serializedVersion: 2
+        x: 3645
+        y: 3135
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6172decc2243adc4ba46ee6b218dda5d
+      internalID: -1534854935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_108
+      rect:
+        serializedVersion: 2
+        x: 4860
+        y: 3135
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00dcaab6e255734099d2c5d2d7483ce
+      internalID: -1582901016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_109
+      rect:
+        serializedVersion: 2
+        x: 6075
+        y: 3135
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7d974ab5f5bf04ab2962b71010b298
+      internalID: 40004368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_110
+      rect:
+        serializedVersion: 2
+        x: 7290
+        y: 3135
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac2c764b24a78a4696d8e9e92e0899d
+      internalID: -1983714514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_111
+      rect:
+        serializedVersion: 2
+        x: 8505
+        y: 3135
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c74f1832b6d978429ac0786b981c77a
+      internalID: -1002073315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_112
+      rect:
+        serializedVersion: 2
+        x: 9720
+        y: 3135
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9190103d0d295fe4da7684b1cd5f0803
+      internalID: 1890669264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_113
+      rect:
+        serializedVersion: 2
+        x: 10935
+        y: 3135
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87adced5b05e6c4086ee43a01e60a8d
+      internalID: 1017676895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_114
+      rect:
+        serializedVersion: 2
+        x: 12150
+        y: 3135
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733c8ad54feea23448408a76700bcb39
+      internalID: 2143734220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_115
+      rect:
+        serializedVersion: 2
+        x: 13365
+        y: 3135
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2197b09a39264ac42b2e448f627b7720
+      internalID: 956529037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_116
+      rect:
+        serializedVersion: 2
+        x: 14580
+        y: 3135
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d858dfc1d04b3342aa3ad12dba87d8e
+      internalID: -1422202067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2508
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e287b984b23a16d46b30de94912beb80
+      internalID: 1729646650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_118
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 2508
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a995041ef6ffef40ba8f606b089253c
+      internalID: 2032560125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_119
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 2508
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e19fefcbf0823743a584455c7b44378
+      internalID: 1891138300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_120
+      rect:
+        serializedVersion: 2
+        x: 3645
+        y: 2508
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3496ee8949a1f4caf8cdea2b8e19c9
+      internalID: -348512335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_121
+      rect:
+        serializedVersion: 2
+        x: 4860
+        y: 2508
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5a70f68893c9249ac90c752cf79bf9
+      internalID: 1136905726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_122
+      rect:
+        serializedVersion: 2
+        x: 6075
+        y: 2508
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a149a214801df084386584a8a88634d7
+      internalID: -1358639913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_123
+      rect:
+        serializedVersion: 2
+        x: 7290
+        y: 2508
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e589e69675d5d404eb9fa28c00b0813e
+      internalID: 579705223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_124
+      rect:
+        serializedVersion: 2
+        x: 8505
+        y: 2508
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a259cdbf50701f5429aa38efe51bbe0d
+      internalID: 1110889739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_125
+      rect:
+        serializedVersion: 2
+        x: 9720
+        y: 2508
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0768599fa7a581a4f837eb70746e53ba
+      internalID: -1167513426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_126
+      rect:
+        serializedVersion: 2
+        x: 10935
+        y: 2508
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acfa7502717e3464c81b00b78310ff1c
+      internalID: -1797560831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_127
+      rect:
+        serializedVersion: 2
+        x: 12150
+        y: 2508
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263a4a8d8296b3b40a6dd54bf6e419f6
+      internalID: 2015155181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_128
+      rect:
+        serializedVersion: 2
+        x: 13365
+        y: 2508
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752dfbe0459c3b34483fe03de1eea13c
+      internalID: -269733931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_129
+      rect:
+        serializedVersion: 2
+        x: 14580
+        y: 2508
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a9df390d0d15546b4f280ca5d52fe4
+      internalID: -1672857190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1881
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6398b3a4b93d5374ca46315f9e647e67
+      internalID: -1510486272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_131
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 1881
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a639b1683287b6e4a9faa45f72c62904
+      internalID: 2063079116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_132
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 1881
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120366819fe0a2944b3fcce84811fa4d
+      internalID: 712554036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_133
+      rect:
+        serializedVersion: 2
+        x: 3645
+        y: 1881
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d55d585bd07ca4d85f9f407d02e6d8
+      internalID: -1804345873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_134
+      rect:
+        serializedVersion: 2
+        x: 4860
+        y: 1881
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c3067b7d29661449fa0c18ca7fadd5
+      internalID: 302561021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_135
+      rect:
+        serializedVersion: 2
+        x: 6075
+        y: 1881
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d091ab237f0830b4093f0dbceee3c4d9
+      internalID: -464707792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_136
+      rect:
+        serializedVersion: 2
+        x: 7290
+        y: 1881
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47d0c3a594d2e04f92294396439fd7a
+      internalID: -2080560222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_137
+      rect:
+        serializedVersion: 2
+        x: 8505
+        y: 1881
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134452359fda2ad4883f4c5820e43674
+      internalID: -245136242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_138
+      rect:
+        serializedVersion: 2
+        x: 9720
+        y: 1881
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77fc16ab5647964585acbbfb5bc61bd
+      internalID: -953026249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_139
+      rect:
+        serializedVersion: 2
+        x: 10935
+        y: 1881
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2c279f3aed5944f84abe52c73a2cb7
+      internalID: -1296279294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_140
+      rect:
+        serializedVersion: 2
+        x: 12150
+        y: 1881
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c3a35fef3c6484b91418882002138e
+      internalID: -1489829476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_141
+      rect:
+        serializedVersion: 2
+        x: 13365
+        y: 1881
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10917e0eb0a2ee4bbf452b23978bb65
+      internalID: -711108844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_142
+      rect:
+        serializedVersion: 2
+        x: 14580
+        y: 1881
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1212da9332bb2648bf28afeb3c5d74c
+      internalID: 1882496771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1254
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4906a3f9d2af35843ae58d339fdd2408
+      internalID: -804288313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_144
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 1254
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f666548b8841f5468f8fb96e3d0eea3
+      internalID: 511765685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_145
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 1254
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d542d13253c68b040a09be471cd90fc9
+      internalID: -583163187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_146
+      rect:
+        serializedVersion: 2
+        x: 3645
+        y: 1254
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33e5aff65263c745800fbc3c0491309
+      internalID: -930267993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_147
+      rect:
+        serializedVersion: 2
+        x: 4860
+        y: 1254
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84f76aa2968c984283d3663d2c7c5fc
+      internalID: -2007997709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_148
+      rect:
+        serializedVersion: 2
+        x: 6075
+        y: 1254
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5132b46c304a87f4da470c09cbc1a1b2
+      internalID: -1055010521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_149
+      rect:
+        serializedVersion: 2
+        x: 7290
+        y: 1254
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5edb1cbfb50220441bf0471aaa1eaf73
+      internalID: 51124365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_150
+      rect:
+        serializedVersion: 2
+        x: 8505
+        y: 1254
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15213def402998d4f89684ce9d1d6411
+      internalID: 376296859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_151
+      rect:
+        serializedVersion: 2
+        x: 9720
+        y: 1254
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557595818781dbd4fb769dbf810cf31e
+      internalID: -316059974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_152
+      rect:
+        serializedVersion: 2
+        x: 10935
+        y: 1254
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f827ab0a5bdf1eb4887d2ae2be162185
+      internalID: 1710827541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_153
+      rect:
+        serializedVersion: 2
+        x: 12150
+        y: 1254
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30299dd6d548da14f9d58f9b6f1144fd
+      internalID: 2062617663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_154
+      rect:
+        serializedVersion: 2
+        x: 13365
+        y: 1254
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb27951ce61e975489b0a2533b4ee024
+      internalID: 486974642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_155
+      rect:
+        serializedVersion: 2
+        x: 14580
+        y: 1254
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734f1840cb986fa438b4290003dab191
+      internalID: 1112181720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 627
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629b7bdc4e4024f4382412bb29d95cf4
+      internalID: -157343713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_157
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 627
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a4e43d7024fe64cbfc3badb593148c
+      internalID: 168103371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_158
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 627
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80ab351c601b6e48865adade678aabc
+      internalID: 1395624347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_159
+      rect:
+        serializedVersion: 2
+        x: 3645
+        y: 627
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2c587f59e2215459e85d340d0c0427
+      internalID: -1416503315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_160
+      rect:
+        serializedVersion: 2
+        x: 4860
+        y: 627
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da2b333d2173394d88b15adb367d399
+      internalID: -207746822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_161
+      rect:
+        serializedVersion: 2
+        x: 6075
+        y: 627
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987c8c42310be9049bad44348a7283d1
+      internalID: 1970486915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_162
+      rect:
+        serializedVersion: 2
+        x: 7290
+        y: 627
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127a68b2ea234e7458b1785fad3fb407
+      internalID: 1427948768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_163
+      rect:
+        serializedVersion: 2
+        x: 8505
+        y: 627
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c710fe22c69c0f4408346e1d35235c00
+      internalID: -1207587341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_164
+      rect:
+        serializedVersion: 2
+        x: 9720
+        y: 627
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340cac840a5e2dc489f35f1491872c54
+      internalID: -2107298242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_165
+      rect:
+        serializedVersion: 2
+        x: 10935
+        y: 627
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3191f2c3688c63145ad6d1b25cb69e43
+      internalID: 1805827325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_166
+      rect:
+        serializedVersion: 2
+        x: 12150
+        y: 627
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3935582de30aa4dbadcb8b0166e92b
+      internalID: 1407926515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_167
+      rect:
+        serializedVersion: 2
+        x: 13365
+        y: 627
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252049c2f2feaa846b210d52955206b4
+      internalID: -380352814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_168
+      rect:
+        serializedVersion: 2
+        x: 14580
+        y: 627
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7cb19a7bd89c94da99786134b1533d
+      internalID: -1058206587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_169
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f714ef3edbcaff44da1d288690d1236a
+      internalID: -1534767082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_170
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 0
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240ea0623ff107541805d2b96ec54764
+      internalID: 241948770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_171
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 0
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8936a789129cfe94eb09053607d61ba7
+      internalID: -2087207857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_172
+      rect:
+        serializedVersion: 2
+        x: 3645
+        y: 0
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd277472f7822c4ca43d38a3f5e60ac
+      internalID: 1349715373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_173
+      rect:
+        serializedVersion: 2
+        x: 4860
+        y: 0
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9252f81beacf349a3221f47d70b613
+      internalID: 136384164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_174
+      rect:
+        serializedVersion: 2
+        x: 6075
+        y: 0
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d285581e05efc94d9a970595e36ae26
+      internalID: -81208569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_175
+      rect:
+        serializedVersion: 2
+        x: 7290
+        y: 0
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6168bf43bafd15d498d7095543926d27
+      internalID: -2135290388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_176
+      rect:
+        serializedVersion: 2
+        x: 8505
+        y: 0
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6764ecb2ce5266343adb63631f288dee
+      internalID: 1692868804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_177
+      rect:
+        serializedVersion: 2
+        x: 9720
+        y: 0
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c32f1c227035414a8d0b267c6dc361a
+      internalID: 800633880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_178
+      rect:
+        serializedVersion: 2
+        x: 10935
+        y: 0
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b91a170ae61e9c4080d7f241bcdb82a
+      internalID: -980766796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_179
+      rect:
+        serializedVersion: 2
+        x: 12150
+        y: 0
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984b76408b4bf67409192608a3695027
+      internalID: 370685343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_180
+      rect:
+        serializedVersion: 2
+        x: 13365
+        y: 0
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e434a619ab0c12c41a0be6c9012e0cef
+      internalID: -1320748087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeasurePatientSprite_181
+      rect:
+        serializedVersion: 2
+        x: 14580
+        y: 0
+        width: 1215
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6af6c2ed0338544a79e1d1c74d1a43
+      internalID: 1720806334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9566e491755c5034d886c95669c8d235
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MeasurePatientSprite_0: 478251318
+      MeasurePatientSprite_1: -435389329
+      MeasurePatientSprite_10: 1242857354
+      MeasurePatientSprite_100: 1030207003
+      MeasurePatientSprite_101: 1107996100
+      MeasurePatientSprite_102: -617814059
+      MeasurePatientSprite_103: 1412247384
+      MeasurePatientSprite_104: -1074491176
+      MeasurePatientSprite_105: 904199964
+      MeasurePatientSprite_106: -1795485391
+      MeasurePatientSprite_107: -1534854935
+      MeasurePatientSprite_108: -1582901016
+      MeasurePatientSprite_109: 40004368
+      MeasurePatientSprite_11: 1498578077
+      MeasurePatientSprite_110: -1983714514
+      MeasurePatientSprite_111: -1002073315
+      MeasurePatientSprite_112: 1890669264
+      MeasurePatientSprite_113: 1017676895
+      MeasurePatientSprite_114: 2143734220
+      MeasurePatientSprite_115: 956529037
+      MeasurePatientSprite_116: -1422202067
+      MeasurePatientSprite_117: 1729646650
+      MeasurePatientSprite_118: 2032560125
+      MeasurePatientSprite_119: 1891138300
+      MeasurePatientSprite_12: 1675111550
+      MeasurePatientSprite_120: -348512335
+      MeasurePatientSprite_121: 1136905726
+      MeasurePatientSprite_122: -1358639913
+      MeasurePatientSprite_123: 579705223
+      MeasurePatientSprite_124: 1110889739
+      MeasurePatientSprite_125: -1167513426
+      MeasurePatientSprite_126: -1797560831
+      MeasurePatientSprite_127: 2015155181
+      MeasurePatientSprite_128: -269733931
+      MeasurePatientSprite_129: -1672857190
+      MeasurePatientSprite_13: -1960303093
+      MeasurePatientSprite_130: -1510486272
+      MeasurePatientSprite_131: 2063079116
+      MeasurePatientSprite_132: 712554036
+      MeasurePatientSprite_133: -1804345873
+      MeasurePatientSprite_134: 302561021
+      MeasurePatientSprite_135: -464707792
+      MeasurePatientSprite_136: -2080560222
+      MeasurePatientSprite_137: -245136242
+      MeasurePatientSprite_138: -953026249
+      MeasurePatientSprite_139: -1296279294
+      MeasurePatientSprite_14: 1553962040
+      MeasurePatientSprite_140: -1489829476
+      MeasurePatientSprite_141: -711108844
+      MeasurePatientSprite_142: 1882496771
+      MeasurePatientSprite_143: -804288313
+      MeasurePatientSprite_144: 511765685
+      MeasurePatientSprite_145: -583163187
+      MeasurePatientSprite_146: -930267993
+      MeasurePatientSprite_147: -2007997709
+      MeasurePatientSprite_148: -1055010521
+      MeasurePatientSprite_149: 51124365
+      MeasurePatientSprite_15: 681798804
+      MeasurePatientSprite_150: 376296859
+      MeasurePatientSprite_151: -316059974
+      MeasurePatientSprite_152: 1710827541
+      MeasurePatientSprite_153: 2062617663
+      MeasurePatientSprite_154: 486974642
+      MeasurePatientSprite_155: 1112181720
+      MeasurePatientSprite_156: -157343713
+      MeasurePatientSprite_157: 168103371
+      MeasurePatientSprite_158: 1395624347
+      MeasurePatientSprite_159: -1416503315
+      MeasurePatientSprite_16: 70715133
+      MeasurePatientSprite_160: -207746822
+      MeasurePatientSprite_161: 1970486915
+      MeasurePatientSprite_162: 1427948768
+      MeasurePatientSprite_163: -1207587341
+      MeasurePatientSprite_164: -2107298242
+      MeasurePatientSprite_165: 1805827325
+      MeasurePatientSprite_166: 1407926515
+      MeasurePatientSprite_167: -380352814
+      MeasurePatientSprite_168: -1058206587
+      MeasurePatientSprite_169: -1534767082
+      MeasurePatientSprite_17: -2037087941
+      MeasurePatientSprite_170: 241948770
+      MeasurePatientSprite_171: -2087207857
+      MeasurePatientSprite_172: 1349715373
+      MeasurePatientSprite_173: 136384164
+      MeasurePatientSprite_174: -81208569
+      MeasurePatientSprite_175: -2135290388
+      MeasurePatientSprite_176: 1692868804
+      MeasurePatientSprite_177: 800633880
+      MeasurePatientSprite_178: -980766796
+      MeasurePatientSprite_179: 370685343
+      MeasurePatientSprite_18: 1763549201
+      MeasurePatientSprite_180: -1320748087
+      MeasurePatientSprite_181: 1720806334
+      MeasurePatientSprite_19: 1608060089
+      MeasurePatientSprite_2: 1553541023
+      MeasurePatientSprite_20: 178409929
+      MeasurePatientSprite_21: 1924117474
+      MeasurePatientSprite_22: -1285917449
+      MeasurePatientSprite_23: 419212327
+      MeasurePatientSprite_24: -339245864
+      MeasurePatientSprite_25: 2097790564
+      MeasurePatientSprite_26: -1836434608
+      MeasurePatientSprite_27: -1273995619
+      MeasurePatientSprite_28: 1515337137
+      MeasurePatientSprite_29: 670982644
+      MeasurePatientSprite_3: -724931868
+      MeasurePatientSprite_30: 678292544
+      MeasurePatientSprite_31: 219979034
+      MeasurePatientSprite_32: -713867806
+      MeasurePatientSprite_33: -813742937
+      MeasurePatientSprite_34: 828111214
+      MeasurePatientSprite_35: 1377401293
+      MeasurePatientSprite_36: 2098897930
+      MeasurePatientSprite_37: 779091824
+      MeasurePatientSprite_38: -275152428
+      MeasurePatientSprite_39: -1828114363
+      MeasurePatientSprite_4: 2024839988
+      MeasurePatientSprite_40: -150025828
+      MeasurePatientSprite_41: 116895134
+      MeasurePatientSprite_42: -1419143559
+      MeasurePatientSprite_43: 287244025
+      MeasurePatientSprite_44: -1112850470
+      MeasurePatientSprite_45: 23083348
+      MeasurePatientSprite_46: -1134478435
+      MeasurePatientSprite_47: -1187274136
+      MeasurePatientSprite_48: -1382904510
+      MeasurePatientSprite_49: 789611277
+      MeasurePatientSprite_5: 413697434
+      MeasurePatientSprite_50: -96358742
+      MeasurePatientSprite_51: 2092788206
+      MeasurePatientSprite_52: 2065562253
+      MeasurePatientSprite_53: -494240616
+      MeasurePatientSprite_54: -1581402490
+      MeasurePatientSprite_55: 1187068311
+      MeasurePatientSprite_56: -1504606134
+      MeasurePatientSprite_57: -774821349
+      MeasurePatientSprite_58: 1175487334
+      MeasurePatientSprite_59: 1174177698
+      MeasurePatientSprite_6: 2127148970
+      MeasurePatientSprite_60: 1195751513
+      MeasurePatientSprite_61: 2136942736
+      MeasurePatientSprite_62: -743766345
+      MeasurePatientSprite_63: -292629439
+      MeasurePatientSprite_64: 758379498
+      MeasurePatientSprite_65: -1066703855
+      MeasurePatientSprite_66: -1273652893
+      MeasurePatientSprite_67: -1513825605
+      MeasurePatientSprite_68: -594641091
+      MeasurePatientSprite_69: -1561219842
+      MeasurePatientSprite_7: 1484142660
+      MeasurePatientSprite_70: -1460656420
+      MeasurePatientSprite_71: -1509919659
+      MeasurePatientSprite_72: 675009825
+      MeasurePatientSprite_73: -287905830
+      MeasurePatientSprite_74: -455103557
+      MeasurePatientSprite_75: 580398979
+      MeasurePatientSprite_76: -1909938982
+      MeasurePatientSprite_77: -257542008
+      MeasurePatientSprite_78: -1872479913
+      MeasurePatientSprite_79: 928704668
+      MeasurePatientSprite_8: 839712731
+      MeasurePatientSprite_80: 519851279
+      MeasurePatientSprite_81: 1030368898
+      MeasurePatientSprite_82: -1688896435
+      MeasurePatientSprite_83: 48857479
+      MeasurePatientSprite_84: -2017815673
+      MeasurePatientSprite_85: 1153621051
+      MeasurePatientSprite_86: -887122034
+      MeasurePatientSprite_87: -2103417474
+      MeasurePatientSprite_88: 158439407
+      MeasurePatientSprite_89: 1484475473
+      MeasurePatientSprite_9: -1488282650
+      MeasurePatientSprite_90: 379186688
+      MeasurePatientSprite_91: 342107408
+      MeasurePatientSprite_92: -1045959644
+      MeasurePatientSprite_93: 1769999185
+      MeasurePatientSprite_94: -145200345
+      MeasurePatientSprite_95: 2006757741
+      MeasurePatientSprite_96: -286532985
+      MeasurePatientSprite_97: -1813998164
+      MeasurePatientSprite_98: 284988721
+      MeasurePatientSprite_99: -1658125086
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
