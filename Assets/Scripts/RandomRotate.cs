@@ -1,7 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
 using TMPro;
-using UnityEditorInternal;
 using UnityEngine;
 using UnityEngine.Rendering;
 
@@ -30,9 +29,9 @@ public class RandomRotate : MonoBehaviour
         Debug.Log(obj.transform.rotation.eulerAngles);
         // If heart is close to natural position (+= 10 degrees), activate correct button
         // Else deactivate correct button
-        if ((obj.transform.rotation.eulerAngles.x % 360.0 <= 10.0 || obj.transform.rotation.eulerAngles.x % 360.0 >= 350.0)
-            && (obj.transform.rotation.eulerAngles.y % 180.0 <= 10.0 || obj.transform.rotation.eulerAngles.y % 180.0 >= 170.0)
-            && (obj.transform.rotation.eulerAngles.z % 360.0 <= 10.0 || obj.transform.rotation.eulerAngles.z % 360.0 >= 350.0))
+        if ((obj.transform.rotation.eulerAngles.x % 360.0 <= 20.0 || obj.transform.rotation.eulerAngles.x % 360.0 >= 340.0)
+            && (obj.transform.rotation.eulerAngles.y % 180.0 <= 20.0 || obj.transform.rotation.eulerAngles.y % 180.0 >= 160.0)
+            && (obj.transform.rotation.eulerAngles.z % 360.0 <= 20.0 || obj.transform.rotation.eulerAngles.z % 360.0 >= 340.0))
         {
             buttonGroup.SetActive(true);
             continueButton.SetActive(true);

@@ -40,6 +40,7 @@ public class ClickedGameObject : MonoBehaviour
         // Change answerText to "Correct"
         answerText.text = "<color=green>Correct</color>";
         buttonGroup.SetActive(true);
+
     }
     private void IncorrectClick()
     {

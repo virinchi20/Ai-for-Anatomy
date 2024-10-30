@@ -682,11 +682,11 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: Anatomy
   metroPackageVersion: 1.0.0.0
-  metroCertificatePath: 
+  metroCertificatePath: Assets/WSATestCertificate.pfx
   metroCertificatePassword: 
-  metroCertificateSubject: 
-  metroCertificateIssuer: 
-  metroCertificateNotAfter: 0000000000000000
+  metroCertificateSubject: DefaultCompany
+  metroCertificateIssuer: DefaultCompany
+  metroCertificateNotAfter: 808e8dc58544dc01
   metroApplicationDescription: Anatomy
   wsaImages: {}
   metroTileShortName: Anatomy
@@ -762,11 +762,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: dfc6264b-f08a-4f77-b777-0f0587bb6845
+  cloudProjectId: 6563c93c-0893-47b3-8f3e-4168f6ca98eb
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Anatomy
-  organizationId: virinchilalwani20
+  projectName: MedEd_v1
+  organizationId: samselesky
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
