@@ -7,11 +7,11 @@ using UnityEngine.Rendering;
 public class RandomRotate : MonoBehaviour
 {
 
-    public GameObject obj, continueButton, buttonGroup;
+    public GameObject obj, continueButton;
     public TextMeshProUGUI correctText;
 
     // Start is called before the first frame update
-    void Start()
+    void OnEnable()
     {
         // Get random integers 0-360 for xyz cordinates
         var rand = new System.Random();
@@ -33,14 +33,12 @@ public class RandomRotate : MonoBehaviour
             && (obj.transform.rotation.eulerAngles.y <= 200.0 && obj.transform.rotation.eulerAngles.y >= 160.0)
             && (obj.transform.rotation.eulerAngles.z <= 20.0 || obj.transform.rotation.eulerAngles.z >= 340.0))
         {
-            buttonGroup.SetActive(true);
             continueButton.SetActive(true);
             correctText.text = "<size=8>Correct Placement</size>";
             correctText.color = Color.green;
         }
         else
         {
-            buttonGroup.SetActive(false);
             continueButton.SetActive(false);
             correctText.text = "<size=8>Incorrect Placement</size>";
             correctText.color = Color.red;
