@@ -2560,6 +2560,13 @@ MonoBehaviour:
   - {fileID: 506938228}
   - {fileID: 506938230}
   - {fileID: 506938232}
+  meshRenderer: {fileID: 284287084}
+  meshRenderers:
+  - {fileID: 284287086}
+  - {fileID: 284287090}
+  - {fileID: 284287091}
+  selectedMaterial: {fileID: 2100000, guid: 5650e07bfec6d554c8cae3d9051d407c, type: 2}
+  initialMaterial: {fileID: -5165825625485824360, guid: cc6e71afe6db851438167d2d28aff791, type: 3}
   answerText: {fileID: 1627281733}
   button: {fileID: 1103329642}
 --- !u!114 &190648971
@@ -2847,6 +2854,18 @@ PrefabInstance:
     m_TransformParent: {fileID: 1437208159}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: cc6e71afe6db851438167d2d28aff791, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: cc6e71afe6db851438167d2d28aff791, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: cc6e71afe6db851438167d2d28aff791, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: cc6e71afe6db851438167d2d28aff791, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.062
       objectReference: {fileID: 0}
@@ -2969,6 +2988,11 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: cc6e71afe6db851438167d2d28aff791, type: 3}
   m_PrefabInstance: {fileID: 284287081}
   m_PrefabAsset: {fileID: 0}
+--- !u!23 &284287084 stripped
+MeshRenderer:
+  m_CorrespondingSourceObject: {fileID: -7799425369993963318, guid: cc6e71afe6db851438167d2d28aff791, type: 3}
+  m_PrefabInstance: {fileID: 284287081}
+  m_PrefabAsset: {fileID: 0}
 --- !u!114 &284287085
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2983,6 +3007,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   autoConstraintSelection: 1
   selectedConstraints: []
+--- !u!23 &284287086 stripped
+MeshRenderer:
+  m_CorrespondingSourceObject: {fileID: 1272443592095805136, guid: cc6e71afe6db851438167d2d28aff791, type: 3}
+  m_PrefabInstance: {fileID: 284287081}
+  m_PrefabAsset: {fileID: 0}
 --- !u!114 &284287087
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3237,6 +3266,16 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!23 &284287090 stripped
+MeshRenderer:
+  m_CorrespondingSourceObject: {fileID: 2466179228239824492, guid: cc6e71afe6db851438167d2d28aff791, type: 3}
+  m_PrefabInstance: {fileID: 284287081}
+  m_PrefabAsset: {fileID: 0}
+--- !u!23 &284287091 stripped
+MeshRenderer:
+  m_CorrespondingSourceObject: {fileID: 2285602597697446924, guid: cc6e71afe6db851438167d2d28aff791, type: 3}
+  m_PrefabInstance: {fileID: 284287081}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &339204691
 GameObject:
   m_ObjectHideFlags: 0
@@ -4140,6 +4179,13 @@ MonoBehaviour:
   - {fileID: 506938233}
   - {fileID: 506938230}
   - {fileID: 506938232}
+  meshRenderer: {fileID: 284287086}
+  meshRenderers:
+  - {fileID: 284287084}
+  - {fileID: 284287090}
+  - {fileID: 284287091}
+  selectedMaterial: {fileID: 2100000, guid: 5650e07bfec6d554c8cae3d9051d407c, type: 2}
+  initialMaterial: {fileID: -5165825625485824360, guid: cc6e71afe6db851438167d2d28aff791, type: 3}
   answerText: {fileID: 1640466596}
   button: {fileID: 1499810240}
 --- !u!114 &369493841
@@ -4212,6 +4258,13 @@ MonoBehaviour:
   - {fileID: 506938233}
   - {fileID: 506938228}
   - {fileID: 506938232}
+  meshRenderer: {fileID: 284287090}
+  meshRenderers:
+  - {fileID: 284287084}
+  - {fileID: 284287086}
+  - {fileID: 284287091}
+  selectedMaterial: {fileID: 2100000, guid: 5650e07bfec6d554c8cae3d9051d407c, type: 2}
+  initialMaterial: {fileID: -5165825625485824360, guid: cc6e71afe6db851438167d2d28aff791, type: 3}
   answerText: {fileID: 1477892340}
   button: {fileID: 80250287}
 --- !u!114 &395593764
@@ -12108,6 +12161,13 @@ MonoBehaviour:
   - {fileID: 506938233}
   - {fileID: 506938228}
   - {fileID: 506938230}
+  meshRenderer: {fileID: 284287091}
+  meshRenderers:
+  - {fileID: 284287090}
+  - {fileID: 284287086}
+  - {fileID: 284287084}
+  selectedMaterial: {fileID: 2100000, guid: 5650e07bfec6d554c8cae3d9051d407c, type: 2}
+  initialMaterial: {fileID: -5165825625485824360, guid: cc6e71afe6db851438167d2d28aff791, type: 3}
   answerText: {fileID: 1570138514}
   button: {fileID: 156919069}
 --- !u!114 &1920040089

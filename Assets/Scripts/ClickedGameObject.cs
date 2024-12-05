@@ -1,3 +1,4 @@
+using JetBrains.Annotations;
 using MixedReality.Toolkit;
 using MixedReality.Toolkit.SpatialManipulation;
 using TMPro;
@@ -11,6 +12,12 @@ public class ClickedGameObject : MonoBehaviour
 
     public GameObject obj;
     public GameObject[] objs;
+
+    public MeshRenderer meshRenderer;
+    public MeshRenderer[] meshRenderers;
+
+    public Material selectedMaterial;
+    public Material initialMaterial;
 
     public TextMeshProUGUI answerText;
     public GameObject button;
@@ -29,12 +36,33 @@ public class ClickedGameObject : MonoBehaviour
         answerText.text = "<color=green>Correct</color>";
         button.SetActive(true);
 
+        // Highlight the selected obj
+        meshRenderer.material = selectedMaterial;
+        foreach (MeshRenderer mr in  meshRenderers)
+        {
+            mr.material = initialMaterial;
+        }
     }
-    private void IncorrectClick()
+    private void IncorrectClick(ObjectManipulator man)
     {
         // Change answerText to "Incorrect"
         answerText.text = "<color=red>Incorrect</color>";
         button.SetActive(false);
+
+        // Highlight the selected obj
+        GameObject selectedobj = man.gameObject;
+        foreach (MeshRenderer mr in meshRenderers)
+        {
+            if (mr.gameObject == selectedobj)
+            {
+                mr.material = selectedMaterial;
+            }
+            else
+            {
+                mr.material = initialMaterial;
+            }
+        }
+        meshRenderer.material = initialMaterial;
     }
 
     // Gets ObjectManipulator components for given objects,
@@ -63,7 +91,7 @@ public class ClickedGameObject : MonoBehaviour
         {
             if (manipulator.OnClicked.GetPersistentEventCount().Equals(0))
             {
-                m.OnClicked.AddListener(IncorrectClick);
+                m.OnClicked.AddListener(() => IncorrectClick(m));
             }
         }
     }
