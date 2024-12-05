@@ -95,4 +95,14 @@ public class ClickedGameObject : MonoBehaviour
             }
         }
     }
+
+    // Resets all obj materials to initial material
+    public void ResetMaterials()
+    {
+        meshRenderer.material = initialMaterial;
+        foreach (MeshRenderer mr in meshRenderers)
+        {
+            mr.material = initialMaterial;
+        }
+    }
 }
